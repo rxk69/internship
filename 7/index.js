@@ -1,0 +1,1 @@
+console.log('H \n E \n L \n L \n O');
